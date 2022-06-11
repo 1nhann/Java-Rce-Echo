@@ -19,11 +19,6 @@
             <version>1</version>
         </dependency>
         <dependency>
-            <groupId>com.rometools</groupId>
-            <artifactId>rome</artifactId>
-            <version>1.7.0</version>
-        </dependency>
-        <dependency>
             <groupId>ysoserial</groupId>
             <artifactId>ysoserial</artifactId>
             <version>0.0.6-SNAPSHOT</version>
